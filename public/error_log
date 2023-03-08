@@ -1,0 +1,6 @@
+[28-Sep-2021 17:06:02 UTC] PHP Fatal error:  Cannot use Gathuku\Mpesa\Facades\Mpesa as Mpesa because the name is already in use in /home/kikosico/public_html/projects/kws-donate/app/Http/Controllers/HomeController.php on line 12
+[28-Sep-2021 17:06:29 UTC] PHP Fatal error:  Cannot use Gathuku\Mpesa\Facades\Mpesa as Mpesa because the name is already in use in /home/kikosico/public_html/projects/kws-donate/app/Http/Controllers/HomeController.php on line 12
+[28-Sep-2021 17:07:11 UTC] PHP Fatal error:  Cannot use Gathuku\Mpesa\Facades\Mpesa as Mpesa because the name is already in use in /home/kikosico/public_html/projects/kws-donate/app/Http/Controllers/HomeController.php on line 12
+[28-Sep-2021 17:07:12 UTC] PHP Fatal error:  Cannot use Gathuku\Mpesa\Facades\Mpesa as Mpesa because the name is already in use in /home/kikosico/public_html/projects/kws-donate/app/Http/Controllers/HomeController.php on line 12
+[28-Sep-2021 19:02:41 UTC] PHP Fatal error:  Cannot use Gathuku\Mpesa\Facades\Mpesa as Mpesa because the name is already in use in /home/kikosico/public_html/projects/kws-donate/app/Http/Controllers/HomeController.php on line 12
+[29-Sep-2021 13:40:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/kikosico/public_html/projects/kws-donate/storage/framework/views/c12cc57e6b6105244e215b5caf32ba4808c95fcb.php on line 109
